@@ -60,8 +60,7 @@ int main()
 
 o/p:
 
-![image](https://github.com/user-attachments/assets/4405f4e6-936d-452b-b03c-5a619f509475)
-
+![Screenshot 2024-09-27 121516](https://github.com/user-attachments/assets/cd255e2b-ef5d-46f0-84e6-df83f5e4167f)
 B]
 ```
 #include <iostream>
@@ -86,9 +85,7 @@ int main() {
 ```
 
 o/p:
-
-![image](https://github.com/user-attachments/assets/23f4c52e-d2ec-4a7f-bfa7-2ca6cc44f1c0)
-
+![Screenshot 2024-09-27 121516](https://github.com/user-attachments/assets/cd255e2b-ef5d-46f0-84e6-df83f5e4167f)
 
 
 # Conclusion
